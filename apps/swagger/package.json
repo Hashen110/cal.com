@@ -14,7 +14,7 @@
     "openapi-snippet": "^0.13.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "swagger-ui-react": "4.11.1"
+    "swagger-ui-react": "5.17.12"
   },
   "devDependencies": {
     "@types/node": "14.17.6",

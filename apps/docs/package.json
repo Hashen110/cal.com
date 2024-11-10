@@ -18,7 +18,7 @@
     "iframe-resizer-react": "^1.1.0",
     "next": "^12.1.6",
     "nextra": "^1.1.0",
-    "nextra-theme-docs": "^1.2.2",
+    "nextra-theme-docs": "^2.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },

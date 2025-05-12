@@ -13,7 +13,7 @@
     "@calcom/lib": "*",
     "dayjs": "^1.11.2",
     "ical.js": "^1.4.0",
-    "ics": "^2.31.0",
+    "ics": "^3.2.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {

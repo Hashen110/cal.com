@@ -10,7 +10,7 @@
     "@calcom/zoomvideo": "*",
     "@calcom/dailyvideo": "*",
     "@calcom/office365video": "*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@calcom/types": "*"

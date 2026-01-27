@@ -75,7 +75,7 @@
     "ics": "^2.31.0",
     "jimp": "^0.16.1",
     "libphonenumber-js": "^1.9.53",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "micro": "^9.3.4",
     "mime-types": "^2.1.35",
     "next": "^12.1.6",
@@ -110,7 +110,7 @@
     "stripe": "^9.1.0",
     "superjson": "1.9.1",
     "uuid": "^8.3.2",
-    "web3": "^1.7.3",
+    "web3": "^4.0.1",
     "zod": "^3.16.0"
   },
   "devDependencies": {
